@@ -1,0 +1,7 @@
+opencv-python
+numpy~=1.26.4
+picamera2
+mediapipe
+opcua
+cryptography
+schedule

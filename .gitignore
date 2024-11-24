@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Ignore Python bytecode:
+__pycache__/
+*.pyc
+
+# PyCharm project settings
+.idea/
+
+# VS Code
+.vscode/
+/CableLay/
